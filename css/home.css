@@ -1,0 +1,54 @@
+@font-face{
+    font-family: headstyle;
+    src: url(/Project-1/css/BreeSerif-Regular.ttf);
+}
+
+@font-face{
+    font-family: options;
+    src: url(/Project-1/css/Arvo-Regular.ttf)
+}
+
+.header{
+    font-family: 'headstyle';
+    color: cadetblue;
+}
+
+.navbar{
+    float: right;
+}
+
+button{
+    border: 0px solid;
+    color: purple;
+    font-size: 16px;
+    font-family: 'options';
+    font-weight: bold;
+}
+
+#owl-demo .owl-item div{
+  padding:5px;
+}
+#owl-demo .owl-item img{
+  display: block;
+  width: 100%;
+  height: auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.slide{
+    text-align: center;
+}
+
+.buton1{
+    border: 0px solid;
+    font-size: 20px;
+    font-weight: normal;
+    border-radius: 15px;
+}
+
+img{
+    box-shadow: 0px 10px 0px 10px black;
+}
+
