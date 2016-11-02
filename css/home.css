@@ -1,11 +1,11 @@
 @font-face{
     font-family: headstyle;
-    src: url(/Project-1/css/BreeSerif-Regular.ttf);
+    src: url(/css/BreeSerif-Regular.ttf);
 }
 
 @font-face{
     font-family: options;
-    src: url(/Project-1/css/Arvo-Regular.ttf)
+    src: url(/css/Arvo-Regular.ttf)
 }
 
 .header{
