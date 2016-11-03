@@ -39,6 +39,7 @@ button{
 
 .slide{
     text-align: center;
+    opacity: 0.8;
 }
 
 .buton1{
@@ -52,3 +53,47 @@ img{
     box-shadow: 0px 10px 0px 10px black;
 }
 
+.container1{
+    background-color: aliceblue;
+    opacity: 0.8;
+    width: 95%;
+    padding: 30px;
+    margin: 5px;
+}
+
+#read_more{
+    width: 50%;
+    padding: 50px;
+    border: 1px solid;
+    box-shadow: 3px 3px cadetblue;
+    background-color: cornsilk;
+    text-align: center;
+}
+    
+.container2{
+    background-color: inherit;
+    padding: 15px;
+    width: inherit;
+    height: auto;
+}
+
+.box{
+    border: 1px solid;
+    width: 150px;
+    box-shadow: 1px 1px black;
+    padding: 50px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 10px;
+    background-color: azure;
+}
+
+.box1{
+    float: right;
+    width: 350px;
+    display: inline-block;
+    border: 1px solid;
+    box-shadow: 1px 1px 2px 2px black;
+    padding: 50px;
+    height: inherit;
+}
